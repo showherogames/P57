@@ -5,4 +5,15 @@
 }
 body{
     text-align: center;
+    font-family: 'Open Sans Condensed', sans-serif;
+    background:linear-gradient(green 0%, blue 80%);
+}
+.line {
+    height: 6px;
+    background-color: black;
+    width: 100px;
+    margin: 8px auto;
+}
+p{
+    color:white;
 }
